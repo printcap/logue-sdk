@@ -55,3 +55,4 @@ tools/emscripten/emsdk
 *.dSYM/
 *.su
 
+tools/logue-cli/EULA.md
