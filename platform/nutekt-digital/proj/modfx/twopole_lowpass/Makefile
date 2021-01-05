@@ -1,5 +1,5 @@
 # #############################################################################
-# Minilogue-xd Mod. FX Makefile
+# Nutekt NTS-1 Mod. FX Makefile
 # #############################################################################
 
 ifeq ($(OS),Windows_NT)
@@ -92,7 +92,7 @@ TOPT = -mthumb -mno-thumb-interwork -DTHUMB_NO_INTERWORKING -DTHUMB_PRESENT
 # #############################################################################
 
 PKGDIR = $(PROJECT)
-PKGARCH = $(PROJECT).mnlgxdunit
+PKGARCH = $(PROJECT).ntkdigunit
 MANIFEST = manifest.json
 PAYLOAD = payload.bin
 BUILDDIR = $(PROJECTDIR)/build
