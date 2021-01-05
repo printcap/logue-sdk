@@ -1,5 +1,5 @@
 {
-    "header" : 
+    "header" :
     {
         "platform" : "nutekt-digital",
         "module" : "modfx",
@@ -7,7 +7,7 @@
         "dev_id" : 0,
         "prg_id" : 0,
         "version" : "0.1-0",
-        "name" : "2 pole LPst",
+        "name" : "2 pole LP",
         "num_param" : 0
     }
 }

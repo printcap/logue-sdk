@@ -2,16 +2,16 @@
 # Project Customization
 # #############################################################################
 
-PROJECT = modfx_test
+PROJECT = twopole_lowpass
 
 UCSRC =
 
-UCXXSRC =
+UCXXSRC = twopole_lowpass.cpp
 
 UINCDIR =
 
 UDEFS =
 
-ULIB = 
+ULIB =
 
 ULIBDIR =
